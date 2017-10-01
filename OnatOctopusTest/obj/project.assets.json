@@ -10867,10 +10867,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Onat\\Projects\\OnatOctopusTest\\OnatOctopusTest\\OnatOctopusTest.csproj",
+      "projectUniqueName": "C:\\Users\\strix\\Source\\Repos\\OctopusTest\\OnatOctopusTest\\OnatOctopusTest.csproj",
       "projectName": "OnatOctopusTest",
-      "projectPath": "D:\\Onat\\Projects\\OnatOctopusTest\\OnatOctopusTest\\OnatOctopusTest.csproj",
-      "outputPath": "D:\\Onat\\Projects\\OnatOctopusTest\\OnatOctopusTest\\obj\\",
+      "projectPath": "C:\\Users\\strix\\Source\\Repos\\OctopusTest\\OnatOctopusTest\\OnatOctopusTest.csproj",
+      "outputPath": "C:\\Users\\strix\\Source\\Repos\\OctopusTest\\OnatOctopusTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
