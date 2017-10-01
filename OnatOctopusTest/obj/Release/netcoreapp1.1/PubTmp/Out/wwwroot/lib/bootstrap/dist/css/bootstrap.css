@@ -6754,4 +6754,32 @@ button.close {
     display: none !important;
   }
 }
+
+.tag1 {
+    font-size: 0.5em
+}
+
+.tag2 {
+    font-size: 1em
+}
+
+.tag3 {
+    font-size: 2em
+}
+
+.tag4 {
+    font-size: 3em
+}
+
+.tag5 {
+    font-size: 4em
+}
+
+.tag6 {
+    font-size: 5em
+}
+
+.tag7 {
+    font-size: 6em
+}
 /*# sourceMappingURL=bootstrap.css.map */

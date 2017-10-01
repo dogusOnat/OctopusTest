@@ -7,3 +7,12 @@ D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatO
 D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.dll
 D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.pdb
 D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.csprojResolveAssemblyReference.cache
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\bin\Release\netcoreapp1.1\OnatOctopusTest.deps.json
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\bin\Release\netcoreapp1.1\OnatOctopusTest.runtimeconfig.json
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\bin\Release\netcoreapp1.1\OnatOctopusTest.runtimeconfig.dev.json
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\bin\Release\netcoreapp1.1\OnatOctopusTest.dll
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\bin\Release\netcoreapp1.1\OnatOctopusTest.pdb
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.csprojResolveAssemblyReference.cache
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.AssemblyInfo.cs
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.dll
+C:\Users\strix\Source\Repos\OctopusTest\OnatOctopusTest\obj\Release\netcoreapp1.1\OnatOctopusTest.pdb

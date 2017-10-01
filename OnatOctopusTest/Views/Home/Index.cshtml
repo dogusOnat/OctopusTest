@@ -27,9 +27,8 @@
                         { 
                             @foreach (var item in Model.Words)
                             {
-                                <span title="@(item.Frequency)"> <strong class=@OnatOctopusTest.Extensions.Worker.GetTagClass(item.Frequency, Model.WordFrequencySum)> @item.Text </strong></span>
-
-                            } 
+                               <span title="@(item.Frequency)"> <strong style="font-size: @OnatOctopusTest.Extensions.Worker.GetTagClass(item.Frequency, Model.WordFrequencySum)"> @item.Text </strong></span>
+                            }
                         }
                     }
                 </div>
