@@ -37,6 +37,7 @@ namespace OnatOctopusTest
             //Regıster ınternal services
             services.AddTransient<IDataService, DataService>();
             services.AddTransient<IWebPageParserService, WebPageParserService>();
+            services.AddTransient<ICryptoService, CryptoService>();
 
             var sqlConnectionString = Configuration.GetConnectionString("DefaultConnection");
 

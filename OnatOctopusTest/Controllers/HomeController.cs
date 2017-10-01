@@ -13,10 +13,13 @@ namespace OnatOctopusTest.Controllers
 
         private IDataService _dataService;
         private IWebPageParserService _webPageParserService;
-        public HomeController(IDataService dataService, IWebPageParserService webPageParserService)
+        private ICryptoService _cryptoService;
+
+        public HomeController(ICryptoService cryptoService, IDataService dataService, IWebPageParserService webPageParserService)
         {
             _dataService = dataService;
             _webPageParserService = webPageParserService;
+            _cryptoService = cryptoService;
         }
         public IActionResult Index()
         {
@@ -58,8 +61,8 @@ namespace OnatOctopusTest.Controllers
         public IActionResult Admin()
         {
             AdminVm vm = new AdminVm();
-
-            vm.Words = _dataService.GetAllWordsSorted().Select(w => new WordVm() { Text = w.Decrypted, Frequency = w.Frequency }).ToList();
+             
+            vm.Words = _dataService.GetAllWordsSorted().Select(w => new WordVm() { Text = _cryptoService.Decrypt(w.Encrypted), Frequency = w.Frequency }).ToList();
 
             return View(vm);
         }

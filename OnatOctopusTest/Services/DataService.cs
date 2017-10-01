@@ -13,11 +13,11 @@ namespace OnatOctopusTest.Services
     public class DataService : IDataService
     {
         private DomainModelMySqlContext _dbContext;
-     
+        private ICryptoService _cryptoService;
 
-        public DataService(  DomainModelMySqlContext dbContext)
-        { 
-
+        public DataService(  DomainModelMySqlContext dbContext, ICryptoService cryptoService)
+        {
+            _cryptoService = cryptoService;
             _dbContext = dbContext;
         }
 
@@ -36,7 +36,7 @@ namespace OnatOctopusTest.Services
 
                 if (tmpWord == null)
                 {
-                    tmpWord = new Word(item.Text, item.Frequency, item.WordType);
+                    tmpWord = new Word(_cryptoService, item.Text, item.Frequency, item.WordType);
                     _dbContext.Words.Add(tmpWord);
                 }
                 else
