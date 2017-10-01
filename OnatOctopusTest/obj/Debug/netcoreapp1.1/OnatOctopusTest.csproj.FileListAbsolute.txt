@@ -1,0 +1,9 @@
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\bin\Debug\netcoreapp1.1\OnatOctopusTest.deps.json
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\bin\Debug\netcoreapp1.1\OnatOctopusTest.runtimeconfig.json
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\bin\Debug\netcoreapp1.1\OnatOctopusTest.runtimeconfig.dev.json
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\bin\Debug\netcoreapp1.1\OnatOctopusTest.dll
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\bin\Debug\netcoreapp1.1\OnatOctopusTest.pdb
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Debug\netcoreapp1.1\OnatOctopusTest.csprojResolveAssemblyReference.cache
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Debug\netcoreapp1.1\OnatOctopusTest.AssemblyInfo.cs
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Debug\netcoreapp1.1\OnatOctopusTest.dll
+D:\Onat\Projects\OnatOctopusTest\OnatOctopusTest\obj\Debug\netcoreapp1.1\OnatOctopusTest.pdb
