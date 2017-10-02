@@ -17,11 +17,11 @@ This is a .NetCore 1.1 Web MVC Application
 - SOLID and KISS principles have been applied during development.
 
 Outline:  
-Core folder contains Interfaces for registered services.
-Extensions folder contains static helper classes.
-Migrations folder contains .Net EF's  code first migrations list.	
-Models folder contains database entity classes.
-Services folder contains implementations of registered services. 	
+ - Core folder contains Interfaces for registered services.
+ - Extensions folder contains static helper classes.
+ - Migrations folder contains .Net EF's  code first migrations list.
+ - Models folder contains database entity classes.
+ - Services folder contains implementations of registered services. 	
 
 website URL : http://onat-octopus-test.azurewebsites.net/
 MySql Db Connection String: Host=130.211.71.82;Database=OctopusWordQuest;Uid=octTest;Pwd=octTest
